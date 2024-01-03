@@ -1,0 +1,1 @@
+The Share Modal is a captivating and user-friendly interface designed to facilitate effortless sharing and navigation across multiple platforms. With an eye-catching design and intuitive functionality, this feature-rich modal simplifies the process of sharing and connecting across various user accounts.
